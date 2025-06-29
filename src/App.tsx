@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Calculator, TrendingUp, DollarSign, BarChart3 } from 'lucide-react';
 
 const DCFCalculator = () => {
